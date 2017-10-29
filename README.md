@@ -1,5 +1,7 @@
 # markdowntest
 
+:::python
+    import abc
 ~~~html
 :::C
 #include <stdio.h>
